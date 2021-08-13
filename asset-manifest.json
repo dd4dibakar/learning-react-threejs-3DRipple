@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/learning-react-threejs-3DRipple/static/css/main.eac40e3f.chunk.css",
+    "main.js": "/learning-react-threejs-3DRipple/static/js/main.5ded72a4.chunk.js",
+    "main.js.map": "/learning-react-threejs-3DRipple/static/js/main.5ded72a4.chunk.js.map",
+    "runtime-main.js": "/learning-react-threejs-3DRipple/static/js/runtime-main.bb611f2b.js",
+    "runtime-main.js.map": "/learning-react-threejs-3DRipple/static/js/runtime-main.bb611f2b.js.map",
+    "static/js/2.dba65dba.chunk.js": "/learning-react-threejs-3DRipple/static/js/2.dba65dba.chunk.js",
+    "static/js/2.dba65dba.chunk.js.map": "/learning-react-threejs-3DRipple/static/js/2.dba65dba.chunk.js.map",
+    "static/js/3.ef6fe021.chunk.js": "/learning-react-threejs-3DRipple/static/js/3.ef6fe021.chunk.js",
+    "static/js/3.ef6fe021.chunk.js.map": "/learning-react-threejs-3DRipple/static/js/3.ef6fe021.chunk.js.map",
+    "index.html": "/learning-react-threejs-3DRipple/index.html",
+    "static/css/main.eac40e3f.chunk.css.map": "/learning-react-threejs-3DRipple/static/css/main.eac40e3f.chunk.css.map",
+    "static/js/2.dba65dba.chunk.js.LICENSE.txt": "/learning-react-threejs-3DRipple/static/js/2.dba65dba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb611f2b.js",
+    "static/js/2.dba65dba.chunk.js",
+    "static/css/main.eac40e3f.chunk.css",
+    "static/js/main.5ded72a4.chunk.js"
+  ]
+}
